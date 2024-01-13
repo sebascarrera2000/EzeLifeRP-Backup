@@ -12,6 +12,18 @@
         table {
             background-color: #fff;
         }
+
+        /* Agrega estilos para la barra de búsqueda */
+        #searchform {
+            margin-top: 20px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        #searchterm {
+            width: 200px;
+            margin-right: 10px;
+        }
     </style>
 </head>
 <body>
@@ -25,9 +37,8 @@
         <div class="field" id="searchform">
             <input type="text" value="" id="searchterm" placeholder="Número de Stash" />
             <button type="button" id="search" onclick="searchStash()"><span>📦</span></button>
-            
         </div>
-        <p class="titulo text-center"  style="color: #fff;">Unicamente No aparece el police stash  </p>
+        <p class="titulo text-center" style="color: #fff;">Unicamente No aparece el police stash  </p>
         <div class="list-group" id="itemList"></div>
     </div>
 
@@ -36,33 +47,49 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 
     <script>
-        function searchStash() {
-            var stashNumber = document.getElementById('searchterm').value;
+        async function searchStash() {
+            var stashCode = document.getElementById('searchterm').value;
 
-            // Realiza una solicitud AJAX para cargar el JSON de housing
-            fetch('./house.json')
-                .then(response => response.json())
-                .then(housingData => {
-                    var stash = housingData.find(item => item.id === stashNumber);
+            // Realiza una solicitud AJAX para cargar el JSON de códigos e IDs
+            const codesAndIdsResponse = await fetch('./dataIdhouse.json');
+            const codesAndIdsData = await codesAndIdsResponse.json();
 
-                    var itemList = document.getElementById('itemList');
-                    itemList.innerHTML = ''; // Limpiar la lista de items
+            // Busca el ID correspondiente al código ingresado
+            var stashId = codesAndIdsData.find(item => item.code === stashCode)?.id;
 
-                    if (stash) {
-                        stash.items.forEach(function (item) {
-                            var listItem = document.createElement('div');
-                            listItem.className = 'list-group-item';
-                            listItem.textContent = `${item.name}: ${item.amount}`;
-                            itemList.appendChild(listItem);
-                        });
-                    } else {
+            // Si se encontró el ID, realiza una solicitud adicional para cargar el JSON de housing
+            if (stashId) {
+                const housingResponse = await fetch('./house.json');
+                const housingData = await housingResponse.json();
+
+                var stash = housingData.find(item => item.id === stashId);
+
+                var itemList = document.getElementById('itemList');
+                itemList.innerHTML = ''; // Limpiar la lista de items
+
+                if (stash) {
+                    stash.items.forEach(function (item) {
                         var listItem = document.createElement('div');
                         listItem.className = 'list-group-item';
-                        listItem.textContent = 'No se encontró nada en el stash';
+                        listItem.textContent = `${item.name}: ${item.amount}`;
                         itemList.appendChild(listItem);
-                    }
-                })
-                .catch(error => console.error('Error al cargar el JSON de housing:', error));
+                    });
+                } else {
+                    var listItem = document.createElement('div');
+                    listItem.className = 'list-group-item';
+                    listItem.textContent = 'No se encontró nada en el stash';
+                    itemList.appendChild(listItem);
+                }
+            } else {
+                // Si no se encontró el ID correspondiente al código
+                var itemList = document.getElementById('itemList');
+                itemList.innerHTML = '';
+
+                var listItem = document.createElement('div');
+                listItem.className = 'list-group-item';
+                listItem.textContent = 'No se encontró el ID correspondiente al código ingresado';
+                itemList.appendChild(listItem);
+            }
         }
     </script>
 </body>
