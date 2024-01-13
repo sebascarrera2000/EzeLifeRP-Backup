@@ -1055,8 +1055,2164 @@
                         "amount": 1
                     }
                 ]
-            }
-
+            },
+            {
+                "id": "6004",
+                "items": [
+                    {
+                        "name": "id_card",
+                        "amount": 1
+                    },
+                    {
+                        "name": "driver_license",
+                        "amount": 1
+                    }
+                ]
+            },
+            {
+                "id": "6006",
+                "items": [
+                    {
+                        "name": "id_card",
+                        "amount": 1
+                    },
+                    {
+                        "name": "driver_license",
+                        "amount": 1
+                    }
+                ]
+            },
+            {
+                "id": "6014",
+                "items": [
+                    {
+                        "name": "empty_weed_bag",
+                        "amount": 145
+                    },
+                    {
+                        "name": "id_card",
+                        "amount": 1
+                    },
+                    {
+                        "name": "weed_nutrition",
+                        "amount": 3
+                    },
+                    {
+                        "name": "racingtablet",
+                        "amount": 1
+                    },
+                    {
+                        "name": "firework3",
+                        "amount": 1
+                    },
+                    {
+                        "name": "megafono",
+                        "amount": 1
+                    },
+                    {
+                        "name": "sandwich",
+                        "amount": 2
+                    },
+                    {
+                        "name": "cuerda",
+                        "amount": 2
+                    },
+                    {
+                        "name": "beer",
+                        "amount": 13
+                    },
+                    {
+                        "name": "copper",
+                        "amount": 39
+                    },
+                    {
+                        "name": "billing",
+                        "amount": 1
+                    },
+                    {
+                        "name": "id_job",
+                        "amount": 1
+                    },
+                    {
+                        "name": "driver_license",
+                        "amount": 1
+                    },
+                    {
+                        "name": "firework4",
+                        "amount": 1
+                    },
+                    {
+                        "name": "crack_baggy",
+                        "amount": 3
+                    },
+                    {
+                        "name": "meth",
+                        "amount": 4
+                    },
+                    {
+                        "name": "advancedlockpick",
+                        "amount": 1
+                    },
+                    {
+                        "name": "phone",
+                        "amount": 1
+                    },
+                    {
+                        "name": "aluminum",
+                        "amount": 23
+                    },
+                    {
+                        "name": "paint_can",
+                        "amount": 1
+                    },
+                    {
+                        "name": "fitbit",
+                        "amount": 1
+                    },
+                    {
+                        "name": "weed_skunk",
+                        "amount": 6
+                    },
+                    {
+                        "name": "metalscrap",
+                        "amount": 31
+                    },
+                    {
+                        "name": "bandage",
+                        "amount": 1
+                    },
+                    {
+                        "name": "rolling_paper",
+                        "amount": 287
+                    },
+                    {
+                        "name": "cryptostick",
+                        "amount": 13
+                    }
+                ]
+            },
+            {
+                "id": "6047",
+                "items": [
+                    {
+                        "name": "empty_weed_bag",
+                        "amount": 23
+                    }
+                ]
+            },
+            {
+                "id": "6124",
+                "items": [
+                    {
+                        "name": "phone",
+                        "amount": 1
+                    },
+                    {
+                        "name": "id_card",
+                        "amount": 1
+                    },
+                    {
+                        "name": "driver_license",
+                        "amount": 1
+                    },
+                    {
+                        "name": "rentalpapers",
+                        "amount": 1
+                    },
+                    {
+                        "name": "diamond",
+                        "amount": 7
+                    },
+                    {
+                        "name": "cryptostick",
+                        "amount": 2
+                    },
+                    {
+                        "name": "weapon_poolcue",
+                        "amount": 1
+                    },
+                    {
+                        "name": "radio",
+                        "amount": 1
+                    },
+                    {
+                        "name": "xtcbaggy",
+                        "amount": 3
+                    },
+                    {
+                        "name": "driver_license",
+                        "amount": 1
+                    },
+                    {
+                        "name": "id_card",
+                        "amount": 1
+                    },
+                    {
+                        "name": "driver_license",
+                        "amount": 1
+                    },
+                    {
+                        "name": "visa",
+                        "amount": 1
+                    },
+                    {
+                        "name": "id_job",
+                        "amount": 1
+                    },
+                    {
+                        "name": "cryptostick",
+                        "amount": 1
+                    },
+                    {
+                        "name": "radio",
+                        "amount": 1
+                    },
+                    {
+                        "name": "weapon_snspistol",
+                        "amount": 1
+                    },
+                    {
+                        "name": "weapon_vintagepistol",
+                        "amount": 2
+                    },
+                    {
+                        "name": "weapon_pistol",
+                        "amount": 1
+                    },
+                    {
+                        "name": "weapon_machete",
+                        "amount": 1
+                    },
+                    {
+                        "name": "supervodka",
+                        "amount": 19
+                    }
+                ]
+            },
+            {
+                "id": "6133",
+                "items": [
+                    {
+                        "name": "weapon_pistol",
+                        "amount": 1
+                    },
+                    {
+                        "name": "weapon_smg",
+                        "amount": 1
+                    },
+                    {
+                        "name": "weapon_assaultrifle",
+                        "amount": 1
+                    },
+                    {
+                        "name": "diamond",
+                        "amount": 43
+                    },
+                    {
+                        "name": "wheel_ticket",
+                        "amount": 26
+                    },
+                    {
+                        "name": "supervodka",
+                        "amount": 20
+                    },
+                    {
+                        "name": "xtcbaggy",
+                        "amount": 1080
+                    },
+                    {
+                        "name": "cryptostick",
+                        "amount": 2
+                    },
+                    {
+                        "name": "cryptostick",
+                        "amount": 1
+                    },
+                    {
+                        "name": "cryptostick",
+                        "amount": 3
+                    },
+                    {
+                        "name": "cryptostick",
+                        "amount": 1
+                    },
+                    {
+                        "name": "squidgame",
+                        "amount": 1
+                    },
+                    {
+                        "name": "xmas_packed_gift",
+                        "amount": 1
+                    }
+                ]
+            },
+            {
+                "id": "6145",
+                "items": [
+                    null,
+                    {
+                        "name": "crack_baggy",
+                        "amount": 2
+                    }
+                ]
+            },
+            {
+                "id": "6167",
+                "items": [
+                    {
+                        "name": "weed_skunk",
+                        "amount": 58
+                    }
+                ]
+            },
+            {
+                "id": "6190",
+                "items": [
+                    {
+                        "name": "weapon_heavypistol",
+                        "amount": 1
+                    },
+                    {
+                        "name": "weapon_knife",
+                        "amount": 1
+                    },
+                    {
+                        "name": "cryptostick",
+                        "amount": 1
+                    },
+                    {
+                        "name": "empty_weed_bag",
+                        "amount": 17
+                    },
+                    {
+                        "name": "weed_skunk",
+                        "amount": 4
+                    },
+                    {
+                        "name": "screwdriverset",
+                        "amount": 1
+                    },
+                    {
+                        "name": "meth",
+                        "amount": 7
+                    },
+                    {
+                        "name": "plastic",
+                        "amount": 44
+                    },
+                    {
+                        "name": "iron",
+                        "amount": 66
+                    },
+                    {
+                        "name": "glass",
+                        "amount": 23
+                    },
+                    {
+                        "name": "copper",
+                        "amount": 25
+                    },
+                    {
+                        "name": "metalscrap",
+                        "amount": 25
+                    },
+                    {
+                        "name": "aluminum",
+                        "amount": 32
+                    },
+                    {
+                        "name": "rubber",
+                        "amount": 3
+                    },
+                    {
+                        "name": "steel",
+                        "amount": 24
+                    }
+                ]
+            },
+            {
+                "id": "6216",
+                "items": [
+                    {
+                        "name": "empty_weed_bag",
+                        "amount": 84
+                    }
+                ]
+            },
+            {
+                "id": "6327",
+                "items":[ 
+                     {
+                        "name": "xtcbaggy",
+                        "amount": 1018
+                    },
+                     {
+                        "name": "diamond",
+                        "amount": 34
+                    },
+                    {
+                        "name": "driver_license",
+                        "amount": 1
+                    },
+                         {
+                        "name": "cokebaggy",
+                        "amount": 5
+                    },
+                     {
+                        "name": "supervodka",
+                        "amount": 6
+                    },
+                     {
+                        "name": "wheel_ticket",
+                        "amount": 44
+                    },
+                    {
+                        "name": "armor",
+                        "amount": 1
+                    },
+                     {
+                        "name": "meth",
+                        "amount": 6
+                    },
+                    {
+                        "name": "corona",
+                        "amount": 2
+                    },
+                     {
+                        "name": "tequila",
+                        "amount": 1
+                    }]
+                
+                },
+                {
+                    "id": "6378",
+                    "items": [
+                        {
+                            "name": "steel",
+                            "amount": 51
+                        },
+                        {
+                            "name": "rubber",
+                            "amount": 8
+                        },
+                        {
+                            "name": "glass",
+                            "amount": 29
+                        },
+                        {
+                            "name": "aluminum",
+                            "amount": 20
+                        },
+                        {
+                            "name": "copper",
+                            "amount": 78
+                        },
+                        {
+                            "name": "iron",
+                            "amount": 47
+                        },
+                        {
+                            "name": "metalscrap",
+                            "amount": 24
+                        },
+                        {
+                            "name": "plastic",
+                            "amount": 58
+                        },
+                        {
+                            "name": "electronickit",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "6409",
+                    "items": [
+                        {
+                            "name": "rentalpapers",
+                            "amount": 1
+                        },
+                        {
+                            "name": "rentalpapers",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "6526",
+                    "items": [
+                        {
+                            "name": "radio",
+                            "amount": 1
+                        }
+                    ]
+                },
+                {
+                    "id": "6562",
+                    "items": [
+                        {
+                            "name": "crack_baggy",
+                            "amount": 5
+                        },
+                        {
+                            "name": "cokebaggy",
+                            "amount": 5
+                        }
+                    ]
+                },
+                {
+                    "id": "6588",
+                    "items": [
+                        {"name": "metalscrap", "amount": 67},
+                        {"name": "glass", "amount": 45},
+                        {"name": "iron", "amount": 40},
+                        {"name": "copper", "amount": 27},
+                        {"name": "aluminum", "amount": 57},
+                        {"name": "steel", "amount": 56},
+                        {"name": "plastic", "amount": 59},
+                        {"name": "weapon_poolcue", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "paint_clean", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "6743",
+                    "items": [
+                        {"name": "cokebaggy", "amount": 5},
+                        {"name": "crack_baggy", "amount": 6},
+                        {"name": "meth", "amount": 6}
+                    ]
+                },
+                {
+                    "id": "6769",
+                    "items": {
+                        "1": {"name": "weapon_knife", "amount": 1},
+                        "2": {"name": "weapon_knife", "amount": 1},
+                        "3": {"name": "weapon_knife", "amount": 1},
+                        "4": {"name": "weapon_knife", "amount": 1},
+                        "5": {"name": "weapon_knife", "amount": 1},
+                        "16": {"name": "cokebaggy", "amount": 10}
+                    }
+                },
+                {
+                    "id": "6814",
+                    "items": [
+                        {"name": "kurkakola", "amount": 1},
+                        {"name": "kurkakola", "amount": 1},
+                        {"name": "kurkakola", "amount": 1},
+                        {"name": "kurkakola", "amount": 1},
+                        {"name": "kurkakola", "amount": 1},
+                        {"name": "kurkakola", "amount": 1},
+                        {"name": "sandwich", "amount": 1},
+                        {"name": "sandwich", "amount": 1},
+                        {"name": "sandwich", "amount": 1},
+                        {"name": "sandwich", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "6926",
+                    "items": [
+                        {"name": "id_card", "amount": 1},
+                        {"name": "driver_license", "amount": 1},
+                        {"name": "phone", "amount": 1},
+                        {"name": "phone", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "phone", "amount": 1},
+                        {"name": "phone", "amount": 1},
+                        {"name": "id_card", "amount": 1},
+                        {"name": "driver_license", "amount": 1},
+                        {"name": "phone", "amount": 1},
+                        {"name": "phone", "amount": 1},
+                        {"name": "phone", "amount": 1},
+                        {"name": "phone", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "7004",
+                    "items": [
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "7022",
+                    "items": [
+                        {"name": "id_card", "amount": 1},
+                        {"name": "phone", "amount": 1},
+                        {"name": "electronickit", "amount": 1},
+                        {"name": "driver_license", "amount": 1},
+                        {"name": "firework3", "amount": 1},
+                        {"name": "firework4", "amount": 1},
+                        {"name": "visa", "amount": 1},
+                        {"name": "cleaningkit", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "7022",
+                    "items": [
+                        {"name": "id_card", "amount": 1},
+                        {"name": "phone", "amount": 1},
+                        {"name": "electronickit", "amount": 1},
+                        {"name": "driver_license", "amount": 1},
+                        {"name": "firework3", "amount": 1},
+                        {"name": "firework4", "amount": 1},
+                        {"name": "visa", "amount": 1},
+                        {"name": "cleaningkit", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "7234",
+                    "items": [
+                        {"name": "id_card", "amount": 1},
+                        {"name": "weapon_knife", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "7245",
+                    "items": [
+                        {"name": "id_card", "amount": 1},
+                        {"name": "driver_license", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "7576",
+                    "items": [
+                        {"name": "driver_license", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "7726",
+                    "items": [
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "777",
+                    "items": [
+                        {"name": "cokebaggy", "amount": 5},
+                        {"name": "crack_baggy", "amount": 5}
+                    ]
+                },
+                {
+                    "id": "7773",
+                    "items": [
+                        {"name": "id_card", "amount": 1},
+                        {"name": "driver_license", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "7780",
+                    "items": [
+                        {"name": "ensalada", "amount": 2},
+                        {"name": "trojan_usb", "amount": 2},
+                        {"name": "driver_license", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "meth", "amount": 24},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "phone", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "cokebaggy", "amount": 26},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "phone", "amount": 1},
+                        {"name": "crack_baggy", "amount": 20},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "joint", "amount": 1},
+                        {"name": "weed_skunk", "amount": 83},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "sandwich", "amount": 6},
+                        {"name": "tosti", "amount": 3},
+                        {"name": "empty_weed_bag", "amount": 40}
+                    ]
+                },
+                {
+                    "id": "7802",
+                    "items": [
+                        {"name": "id_job", "amount": 1},
+                        {"name": "grip_attachment", "amount": 1},
+                        {"name": "smallscope_attachment", "amount": 1},
+                        {"name": "weapon_snspistol", "amount": 1},
+                        {"name": "squidgame", "amount": 1},
+                        {"name": "diamond", "amount": 1},
+                        {"name": "pistol_ammo", "amount": 1},
+                        {"name": "weapon_ceramicpistol", "amount": 1},
+                        {"name": "fitbit", "amount": 1},
+                        {"name": "visa", "amount": 1},
+                        {"name": "cryptostick", "amount": 2},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "xtcbaggy", "amount": 3},
+                        {"name": "weapon_knuckle", "amount": 1},
+                        {"name": "tequila", "amount": 1},
+                        {"name": "beer", "amount": 4},
+                        {"name": "champagne", "amount": 2},
+                        {"name": "advancedlockpick", "amount": 2}
+                    ]
+                },
+                {
+                    "id": "8270",
+                    "items": [
+                        {"name": "crack_baggy", "amount": 10},
+                        {"name": "cokebaggy", "amount": 10},
+                        {"name": "meth", "amount": 18}
+                    ]
+                },
+                {
+                    "id": "8334",
+                    "items": [
+                        {"name": "weapon_knife", "amount": 1},
+                        {"name": "empty_weed_bag", "amount": 2},
+                        {"name": "advancedlockpick", "amount": 2}
+                    ]
+                },
+                {
+                    "id": "8388",
+                    "items": [
+                        {"name": "squidgame", "amount": 1},
+                        {"name": "carta_tequilala", "amount": 1},
+                        {"name": "diving_gear", "amount": 1},
+                        {"name": "diving_fill", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "8454",
+                    "items": [
+                        {"name": "aluminum", "amount": 26},
+                        {"name": "iron", "amount": 54},
+                        {"name": "metalscrap", "amount": 23},
+                        {"name": "glass", "amount": 24},
+                        {"name": "trojan_usb", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "8686",
+                    "items": [
+                        {"name": "cokebaggy", "amount": 24},
+                        {"name": "meth", "amount": 18},
+                        {"name": "crack_baggy", "amount": 20},
+                        {"name": "empty_weed_bag", "amount": 33},
+                        {"name": "weed_skunk", "amount": 77},
+                        {"name": "cokebaggy", "amount": 7},
+                        {"name": "crack_baggy", "amount": 1},
+                        {"name": "meth", "amount": 2},
+                        {"name": "weapon_knife", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "8772",
+                    "items": [
+                        {"name": "weapon_knife", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "weed_nutrition", "amount": 5},
+                        {"name": "salchipapa", "amount": 5},
+                        {"name": "weapon_knife", "amount": 1},
+                        {"name": "empty_weed_bag", "amount": 156},
+                        {"name": "rolling_paper", "amount": 1},
+                        {"name": "billing", "amount": 1},
+                        {"name": "id_job", "amount": 1},
+                        {"name": "wheel_ticket", "amount": 1},
+                        {"name": "advancedlockpick", "amount": 1},
+                        {"name": "visa", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "8791",
+                    "items": [
+                        {"name": "weapon_petrolcan", "amount": 1},
+                        {"name": "champagne", "amount": 1},
+                        {"name": "beer", "amount": 6},
+                        {"name": "pistol_ammo", "amount": 1},
+                        {"name": "supervodka", "amount": 16},
+                        {"name": "racingtablet", "amount": 1},
+                        {"name": "diving_gear", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 2},
+                        {"name": "fitbit", "amount": 1},
+                        {"name": "lighter", "amount": 1},
+                        {"name": "cryptostick", "amount": 2},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 2},
+                        {"name": "cryptostick", "amount": 2},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "xmas_gift", "amount": 1},
+                        {"name": "xmas_gift", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "8983",
+                    "items": [
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "repairkit", "amount": 2},
+                        {"name": "sandwich", "amount": 45},
+                        {"name": "beer", "amount": 5},
+                        {"name": "kurkakola", "amount": 45},
+                        {"name": "squidgame", "amount": 1},
+                        {"name": "racingtablet", "amount": 1},
+                        {"name": "xtcbaggy", "amount": 9},
+                        {"name": "electronickit", "amount": 1},
+                        {"name": "bolsoropa", "amount": 1},
+                        {"name": "visa", "amount": 1},
+                        {"name": "fitbit", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "8988",
+                    "items": [
+                        {"name": "rolling_paper", "amount": 15}
+                    ]
+                },
+                {
+                    "id": "9086",
+                    "items": [
+                        {"name": "basketball_hoop", "amount": 1},
+                        {"name": "skateboard", "amount": 1},
+                        {"name": "radio", "amount": 1},
+                        {"name": "phone", "amount": 2},
+                        {"name": "cokebaggy", "amount": 3},
+                        {"name": "weed_nutrition", "amount": 2},
+                        {"name": "lighter", "amount": 2},
+                        {"name": "xtcbaggy", "amount": 17},
+                        {"name": "rolling_paper", "amount": 5},
+                        {"name": "empty_weed_bag", "amount": 9},
+                        {"name": "crack_baggy", "amount": 5},
+                        {"name": "fuisteeliminado", "amount": 1},
+                        {"name": "pistol_ammo", "amount": 35},
+                        {"name": "mg_ammo", "amount": 1},
+                        {"name": "smg_ammo", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "armor", "amount": 3},
+                        {"name": "megafono", "amount": 1},
+                        {"name": "weapon_wrench", "amount": 1},
+                        {"name": "flashlight_attachment", "amount": 1},
+                        {"name": "cryptostick", "amount": 2},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_battleaxe", "amount": 1},
+                        {"name": "binoculars", "amount": 1},
+                        {"name": "phone", "amount": 1},
+                        {"name": "weapon_ceramicpistol", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "9114",
+                    "items": [
+                        {"name": "empty_weed_bag", "amount": 94},
+                        {"name": "weapon_switchblade", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 2},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 2},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "id_card", "amount": 1},
+                        {"name": "driver_license", "amount": 1},
+                        {"name": "pistol_ammo", "amount": 4},
+                        {"name": "weapon_snspistol", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "9355",
+                    "items": [
+                        {"name": "cokebaggy", "amount": 2},
+                        {"name": "meth", "amount": 3}
+                    ]
+                },
+                {
+                    "id": "9367",
+                    "items": [
+                        {"name": "beer", "amount": 1},
+                        {"name": "beer", "amount": 1},
+                        {"name": "beer", "amount": 1},
+                        {"name": "beer", "amount": 1},
+                        {"name": "beer", "amount": 1},
+                        {"name": "beer", "amount": 1},
+                        {"name": "beer", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "9507",
+                    "items": [
+                        {"name": "weapon_snowball", "amount": 6},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 2},
+                        {"name": "cryptostick", "amount": 2},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "diamond", "amount": 5},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "supervodka", "amount": 2},
+                        {"name": "weapon_machete", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "cokebaggy", "amount": 20},
+                        {"name": "meth", "amount": 36},
+                        {"name": "crack_baggy", "amount": 10}
+                    ]
+                },
+                {
+                    "id": "9703",
+                    "items": [
+                        {"name": "squidgame", "amount": 1},
+                        {"name": "empty_weed_bag", "amount": 200},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "977",
+                    "items": {
+                        "aluminum": {"name": "aluminum", "amount": 1},
+                        "steel": {"name": "steel", "amount": 58},
+                        "aluminum2": {"name": "aluminum", "amount": 72},
+                        "screwdriverset": {"name": "screwdriverset", "amount": 1},
+                        "glass": {"name": "glass", "amount": 1},
+                        "metalscrap": {"name": "metalscrap", "amount": 79},
+                        "rolling_paper": {"name": "rolling_paper", "amount": 3},
+                        "copper": {"name": "copper", "amount": 102},
+                        "glass2": {"name": "glass", "amount": 82},
+                        "iron": {"name": "iron", "amount": 55},
+                        "rubber": {"name": "rubber", "amount": 3},
+                        "plastic": {"name": "plastic", "amount": 108}
+                    }
+                },
+                {
+                    "id": "9805",
+                    "items": [
+                        {"name": "id_card", "amount": 1},
+                        {"name": "weapon_petrolcan", "amount": 1},
+                        {"name": "binoculars", "amount": 1},
+                        {"name": "lighter", "amount": 1},
+                        {"name": "racingtablet", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "985",
+                    "items": [
+                        {"name": "meth", "amount": 24},
+                        {"name": "crack_baggy", "amount": 30},
+                        {"name": "cokebaggy", "amount": 19},
+                        {"name": "tosti", "amount": 3},
+                        {"name": "lighter", "amount": 1},
+                        {"name": "weapon_hammer", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "9355",
+                    "items": [
+                        {"name": "cokebaggy", "amount": 2},
+                        {"name": "meth", "amount": 3}
+                    ]
+                },
+                {
+                    "id": "9367",
+                    "items": [
+                        {"name": "beer", "amount": 1},
+                        {"name": "beer", "amount": 1},
+                        {"name": "beer", "amount": 1},
+                        {"name": "beer", "amount": 1},
+                        {"name": "beer", "amount": 1},
+                        {"name": "beer", "amount": 1},
+                        {"name": "beer", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "9507",
+                    "items": [
+                        {"name": "weapon_snowball", "amount": 6},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 2},
+                        {"name": "cryptostick", "amount": 2},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "diamond", "amount": 5},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "supervodka", "amount": 2},
+                        {"name": "weapon_machete", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "cokebaggy", "amount": 20},
+                        {"name": "meth", "amount": 36},
+                        {"name": "crack_baggy", "amount": 10}
+                    ]
+                },
+                {
+                    "id": "9703",
+                    "items": [
+                        {"name": "squidgame", "amount": 1},
+                        {"name": "empty_weed_bag", "amount": 200},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "977",
+                    "items": {
+                        "aluminum": {"name": "aluminum", "amount": 1},
+                        "steel": {"name": "steel", "amount": 58},
+                        "aluminum2": {"name": "aluminum", "amount": 72},
+                        "screwdriverset": {"name": "screwdriverset", "amount": 1},
+                        "glass": {"name": "glass", "amount": 1},
+                        "metalscrap": {"name": "metalscrap", "amount": 79},
+                        "rolling_paper": {"name": "rolling_paper", "amount": 3},
+                        "copper": {"name": "copper", "amount": 102},
+                        "glass2": {"name": "glass", "amount": 82},
+                        "iron": {"name": "iron", "amount": 55},
+                        "rubber": {"name": "rubber", "amount": 3},
+                        "plastic": {"name": "plastic", "amount": 108}
+                    }
+                },
+                {
+                    "id": "9805",
+                    "items": [
+                        {"name": "id_card", "amount": 1},
+                        {"name": "weapon_petrolcan", "amount": 1},
+                        {"name": "binoculars", "amount": 1},
+                        {"name": "lighter", "amount": 1},
+                        {"name": "racingtablet", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "985",
+                    "items": [
+                        {"name": "meth", "amount": 24},
+                        {"name": "crack_baggy", "amount": 30},
+                        {"name": "cokebaggy", "amount": 19},
+                        {"name": "tosti", "amount": 3},
+                        {"name": "lighter", "amount": 1},
+                        {"name": "weapon_hammer", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "9355",
+                    "items": [
+                        {"name": "cokebaggy", "amount": 2},
+                        {"name": "meth", "amount": 3}
+                    ]
+                },
+                {
+                    "id": "boss_business2",
+                    "items": [
+                       {"name": "bolso", "amount": 1},
+                       {"name": "bolso", "amount": 1},
+                       {"name": "rentalpapers", "amount": 1},
+                       {"name": "firework3", "amount": 1},
+                       {"name": "firework4", "amount": 1},
+                       {"name": "firework1", "amount": 1},
+                       {"name": "squidgame", "amount": 2},
+                       {"name": "rentalpapers", "amount": 1},
+                       {"name": "firework2", "amount": 1}
+                     ]
+                },
+                {
+                    "id": "boss_business3",
+                    "items": [
+                        {"name": "weapon_knife", "amount": 1},
+                        {"name": "weapon_knife", "amount": 1},
+                        {"name": "weapon_knife", "amount": 1},
+                        {"name": "weapon_switchblade", "amount": 1},
+                        {"name": "weapon_switchblade", "amount": 1},
+                        {"name": "weapon_switchblade", "amount": 1},
+                        {"name": "weapon_snspistol", "amount": 1},
+                        {"name": "pistol_ammo", "amount": 32},
+                        {"name": "advancedlockpick", "amount": 2},
+                        {"name": "grip_attachment", "amount": 1},
+                        {"name": "cutter", "amount": 2},
+                        {"name": "bolso", "amount": 2},
+                        {"name": "trojan_usb", "amount": 2},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "painkillers", "amount": 5},
+                        {"name": "ifaks", "amount": 1},
+                        {"name": "empty_weed_bag", "amount": 96},
+                        {"name": "weed_skunk", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "sandwich", "amount": 4},
+                        {"name": "pizza", "amount": 2},
+                        {"name": "twerks_candy", "amount": 1},
+                        {"name": "ensalada", "amount": 2}
+                    ]
+                },
+                {
+                    "id": "boss_business6",
+                    "items": [
+                        {"name": "id_job", "amount": 1},
+                        {"name": "id_job", "amount": 1},
+                        {"name": "id_job", "amount": 1},
+                        {"name": "id_job", "amount": 1},
+                        {"name": "id_job", "amount": 1},
+                        {"name": "id_card", "amount": 1},
+                        {"name": "driver_license", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "boss_business7",
+                    "items": [
+                        {"name": "bolsoropa", "amount": 1},
+                        {"name": "oxy", "amount": 1},
+                        {"name": "firstaid", "amount": 7},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "weapon_pistol", "amount": 1},
+                        {"name": "painkillers", "amount": 13},
+                        {"name": "bandage", "amount": 19},
+                        {"name": "carta_vanilla", "amount": 1},
+                        {"name": "billing", "amount": 1},
+                        {"name": "joint", "amount": 10},
+                        {"name": "weapon_knife", "amount": 1},
+                        {"name": "tablet", "amount": 2},
+                        {"name": "weapon_heavypistol", "amount": 1},
+                        {"name": "pistol_ammo", "amount": 49},
+                        {"name": "smg_ammo", "amount": 39},
+                        {"name": "handcuffs", "amount": 1},
+                        {"name": "weapon_handcuffs", "amount": 1},
+                        {"name": "cokebaggy", "amount": 100},
+                        {"name": "wheel_ticket", "amount": 1},
+                        {"name": "ifaks", "amount": 8},
+                        {"name": "carta_pizzathis", "amount": 1},
+                        {"name": "carta_tequilala", "amount": 1},
+                        {"name": "bandage", "amount": 20},
+                        {"name": "xmas_packed_gift", "amount": 1},
+                        {"name": "painkillers", "amount": 10},
+                        {"name": "oxy", "amount": 15},
+                        {"name": "armor", "amount": 2},
+                        {"name": "weapon_knife", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "boss_businessa",
+                    "items": [
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "boss_businessb",
+                    "items": [
+                        {"name": "weapon_snowball", "amount": 3}
+                    ]
+                },
+                {
+                    "id": "boss_businessj",
+                    "items": [
+                        {"name": "billing", "amount": 1},
+                        {"name": "xmas_packed_gift", "amount": 1},
+                        {"name": "xmas_packed_gift", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "boss_businessb",
+                    "items": [
+                        {"name": "weapon_snowball", "amount": 3}
+                    ]
+                },
+                {
+                    "id": "boss_businessj",
+                    "items": [
+                        {"name": "billing", "amount": 1},
+                        {"name": "xmas_packed_gift", "amount": 1},
+                        {"name": "xmas_packed_gift", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "boss_gambino",
+                    "items": [
+                        {"name": "cutter", "amount": 1},
+                        {"name": "screwdriverset", "amount": 1},
+                        {"name": "advancedlockpick", "amount": 18},
+                        {"name": "gasmask", "amount": 1},
+                        {"name": "tablet", "amount": 2},
+                        {"name": "trojan_usb", "amount": 50},
+                        {"name": "weapon_wrench", "amount": 1},
+                        {"name": "weapon_knife", "amount": 1},
+                        {"name": "meth", "amount": 8},
+                        {"name": "cokebaggy", "amount": 9003},
+                        {"name": "weed_skunk", "amount": 42},
+                        {"name": "empty_weed_bag", "amount": 500},
+                        {"name": "oxy", "amount": 10},
+                        {"name": "goldchain", "amount": 1},
+                        {"name": "diamond", "amount": 22},
+                        {"name": "electronickit", "amount": 25},
+                        {"name": "firstaid", "amount": 9},
+                        {"name": "bolso", "amount": 3},
+                        {"name": "gatecrack", "amount": 1},
+                        {"name": "cryptostick", "amount": 11},
+                        {"name": "driver_license", "amount": 3},
+                        {"name": "paint_can", "amount": 1},
+                        {"name": "weapon_heavypistol", "amount": 1},
+                        {"name": "weapon_pistol50", "amount": 1},
+                        {"name": "driver_license", "amount": 1},
+                        {"name": "weapon_pistol", "amount": 1},
+                        {"name": "binoculars", "amount": 1},
+                        {"name": "id_card", "amount": 4},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "armor", "amount": 1},
+                        {"name": "pistol_ammo", "amount": 3},
+                        {"name": "weapon_dagger", "amount": 2}
+                    ]
+                },
+                {
+                    "id": "boss_mechanic1",
+                    "items": [
+                        {"name": "meth", "amount": 12},
+                        {"name": "crack_baggy", "amount": 20},
+                        {"name": "pistol_ammo", "amount": 11},
+                        {"name": "cokebaggy", "amount": 11},
+                        {"name": "weapon_knife", "amount": 1},
+                        {"name": "cryptostick", "amount": 18},
+                        {"name": "xtcbaggy", "amount": 60},
+                        {"name": "diamond", "amount": 15},
+                        {"name": "driver_license", "amount": 1},
+                        {"name": "id_card", "amount": 1},
+                        {"name": "supervodka", "amount": 22},
+                        {"name": "cryptostick", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "boss_mechanic4",
+                    "items": [
+                        {"name": "wheel_ticket", "amount": 2},
+                        {"name": "dona", "amount": 100},
+                        {"name": "advancedlockpick", "amount": 1},
+                        {"name": "meth", "amount": 9},
+                        {"name": "cokebaggy", "amount": 505},
+                        {"name": "crack_baggy", "amount": 15},
+                        {"name": "weed_skunk", "amount": 60},
+                        {"name": "xtcbaggy", "amount": 21},
+                        {"name": "dendrogyra_coral", "amount": 1},
+                        {"name": "weapon_poolcue", "amount": 1},
+                        {"name": "pepsi", "amount": 50},
+                        {"name": "pizza", "amount": 50},
+                        {"name": "beer", "amount": 1},
+                        {"name": "supervodka", "amount": 9},
+                        {"name": "empty_weed_bag", "amount": 47},
+                        {"name": "weapon_pistol", "amount": 1},
+                        {"name": "weapon_snspistol", "amount": 1},
+                        {"name": "pistol_ammo", "amount": 26},
+                        {"name": "trojan_usb", "amount": 1},
+                        {"name": "metalscrap", "amount": 45},
+                        {"name": "steel", "amount": 40},
+                        {"name": "rubber", "amount": 10},
+                        {"name": "copper", "amount": 55},
+                        {"name": "aluminum", "amount": 23},
+                        {"name": "plastic", "amount": 24},
+                        {"name": "glass", "amount": 45},
+                        {"name": "iron", "amount": 38}
+                    ]
+                },
+                {
+                    "id": "boss_mechanic5",
+                    "items": [
+                        {"name": "meth", "amount": 194},
+                        {"name": "cokebaggy", "amount": 221},
+                        {"name": "crack_baggy", "amount": 15},
+                        {"name": "empty_weed_bag", "amount": 2},
+                        {"name": "weapon_petrolcan", "amount": 1},
+                        {"name": "plastic", "amount": 10},
+                        {"name": "glass", "amount": 15},
+                        {"name": "metalscrap", "amount": 25},
+                        {"name": "aluminum", "amount": 24},
+                        {"name": "steel", "amount": 19},
+                        {"name": "rubber", "amount": 2},
+                        {"name": "iron", "amount": 16},
+                        {"name": "copper", "amount": 8},
+                        {"name": "cryptostick", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "boss_mechanic9",
+                    "items": [
+                        {"name": "screwdriverset", "amount": 1},
+                        {"name": "visa", "amount": 1},
+                        {"name": "radio", "amount": 1},
+                        {"name": "id_card", "amount": 1},
+                        {"name": "driver_license", "amount": 1},
+                        {"name": "paint_clean", "amount": 2},
+                        {"name": "id_card", "amount": 1},
+                        {"name": "id_job", "amount": 1},
+                        {"name": "driver_license", "amount": 1},
+                        {"name": "id_card", "amount": 1},
+                        {"name": "driver_license", "amount": 1},
+                        {"name": "id_card", "amount": 1},
+                        {"name": "id_job", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "boss_pinkpanters",
+                    "items": [
+                        {"name": "weapon_pistol", "amount": 1},
+                        {"name": "weapon_pistol", "amount": 1},
+                        {"name": "weapon_pistol", "amount": 1},
+                        {"name": "weapon_pistol", "amount": 1},
+                        {"name": "weapon_knife", "amount": 1},
+                        {"name": "weapon_knife", "amount": 1},
+                        {"name": "armor", "amount": 1},
+                        {"name": "radio", "amount": 1},
+                        {"name": "trojan_usb", "amount": 1},
+                        {"name": "weapontint_4", "amount": 7},
+                        {"name": "cokebaggy", "amount": 10},
+                        {"name": "crack_baggy", "amount": 15},
+                        {"name": "meth", "amount": 12},
+                        {"name": "bandage", "amount": 14},
+                        {"name": "painkillers", "amount": 7},
+                        {"name": "diamond", "amount": 20},
+                        {"name": "oxy", "amount": 5}
+                    ]
+                },
+                {
+                    "id": "boss_police",
+                    "items": [
+                        {"name": "billing", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "driver_license", "amount": 1},
+                        {"name": "casinochips", "amount": 100}
+                    ]
+                },
+                {
+                    "id": "boss_whitefamilies",
+                    "items": [
+                        {"name": "handcuffs", "amount": 1},
+                        {"name": "racingtablet", "amount": 1},
+                        {"name": "advancedlockpick", "amount": 1},
+                        {"name": "radio", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "trojan_usb", "amount": 1},
+                        {"name": "weapon_snspistol", "amount": 1},
+                        {"name": "weapon_bzgas", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "boss_youngaztecas",
+                    "items": [
+                        {"name": "tablet", "amount": 4},
+                        {"name": "security_card_01", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1},
+                        {"name": "weapon_dagger", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "faction_ambulance",
+                    "items": [
+                        {"name": "firstaid", "amount": 195},
+                        {"name": "parachute", "amount": 3},
+                        {"name": "ifaks", "amount": 315},
+                        {"name": "painkillers", "amount": 378},
+                        {"name": "condon", "amount": 132},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "driver_license", "amount": 1},
+                        {"name": "id_card", "amount": 1},
+                        {"name": "salchipapa", "amount": 15},
+                        {"name": "pepsi", "amount": 19},
+                        {"name": "dona", "amount": 27},
+                        {"name": "hamburguesa", "amount": 6},
+                        {"name": "supervodka", "amount": 5},
+                        {"name": "cuerda", "amount": 1},
+                        {"name": "diving_gear", "amount": 5},
+                        {"name": "granizadocafe", "amount": 33},
+                        {"name": "condon", "amount": 1},
+                        {"name": "repairkit", "amount": 46},
+                        {"name": "radio", "amount": 2},
+                        {"name": "diving_gear", "amount": 5},
+                        {"name": "diving_fill", "amount": 10},
+                        {"name": "bandage", "amount": 265},
+                        {"name": "cocacola", "amount": 20}
+                    ]
+                },
+                
+                {
+                    "id": "faction_business10",
+                    "items": [
+                        {"name": "supervodka", "amount": 156},
+                        {"name": "carta_tequilala", "amount": 2},
+                        {"name": "sprite", "amount": 24},
+                        {"name": "xmas_gift", "amount": 1},
+                        {"name": "squidgame", "amount": 97},
+                        {"name": "phone", "amount": 4},
+                        {"name": "dona", "amount": 36},
+                        {"name": "tequila", "amount": 30},
+                        {"name": "bolsacomida", "amount": 91},
+                        {"name": "bolsaliquidos", "amount": 76},
+                        {"name": "advancedlockpick", "amount": 3},
+                        {"name": "paella", "amount": 38},
+                        {"name": "paint_can", "amount": 1}
+                    ]
+                },
+                
+                {
+                    "id": "faction_business2",
+                    "items": [
+                        {"name": "salchipapa", "amount": 139},
+                        {"name": "dona", "amount": 138},
+                        {"name": "pizza", "amount": 143},
+                        {"name": "carta_pizzathis", "amount": 91},
+                        {"name": "helado", "amount": 124},
+                        {"name": "pepsi", "amount": 89},
+                        {"name": "granizadocafe", "amount": 165},
+                        {"name": "squidgame", "amount": 82},
+                        {"name": "phone", "amount": 1},
+                        {"name": "bolsacomida", "amount": 1},
+                        {"name": "bolsaliquidos", "amount": 2},
+                        {"name": "weapon_snowball", "amount": 8},
+                        {"name": "rentalpapers", "amount": 1}
+                    ]
+                },
+                
+                {
+                    "id": "faction_business3",
+                    "items": [
+                        {"name": "fernetcola", "amount": 156},
+                        {"name": "whiskey", "amount": 318},
+                        {"name": "aguardiente", "amount": 89},
+                        {"name": "jennessee", "amount": 114},
+                        {"name": "pepsi", "amount": 2},
+                        {"name": "salchipapa", "amount": 147},
+                        {"name": "ceviche", "amount": 134},
+                        {"name": "supervodka", "amount": 6},
+                        {"name": "beer", "amount": 29},
+                        {"name": "carta_yellowjack", "amount": 10},
+                        {"name": "helado", "amount": 14},
+                        {"name": "corona", "amount": 5},
+                        {"name": "tequila", "amount": 3},
+                        {"name": "bolsacomida", "amount": 1},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "weapon_bzgas", "amount": 1},
+                        {"name": "bolsaliquidos", "amount": 11},
+                        {"name": "phone", "amount": 2},
+                        {"name": "squidgame", "amount": 1}
+                    ]
+                },
+                
+                {
+                    "id": "faction_business6",
+                    "items": [
+                        {"name": "wheel_ticket", "amount": 8},
+                        {"name": "rentalpapers", "amount": 8},
+                        {"name": "driver_license", "amount": 1},
+                        {"name": "squidgame", "amount": 83},
+                        {"name": "weapon_petrolcan", "amount": 1},
+                        {"name": "bolsaliquidos", "amount": 288},
+                        {"name": "beer", "amount": 31},
+                        {"name": "champagne", "amount": 5},
+                        {"name": "carta_casino", "amount": 4},
+                        {"name": "bolsacomida", "amount": 127}
+                    ]
+                },
       
+                {
+                    "id":"faction_business7",
+                    "items": [
+                        {"name": "screwdriverset", "amount": 1},
+                        {"name": "advancedlockpick", "amount": 1},
+                        {"name": "asado", "amount": 234},
+                        {"name": "paint_clean", "amount": 1},
+                        {"name": "visa", "amount": 1},
+                        {"name": "carta_vanilla", "amount": 2},
+                        {"name": "carta_tequilala", "amount": 1},
+                        {"name": "ron", "amount": 61},
+                        {"name": "cocacola", "amount": 80},
+                        {"name": "sprite", "amount": 57},
+                        {"name": "corona", "amount": 6},
+                        {"name": "beer", "amount": 15},
+                        {"name": "supervodka", "amount": 3},
+                        {"name": "carta_vanilla", "amount": 1},
+                        {"name": "carta_vanilla", "amount": 1},
+                        {"name": "billing", "amount": 1},
+                        {"name": "champagne", "amount": 96},
+                        {"name": "sushi", "amount": 89},
+                        {"name": "tequila", "amount": 38},
+                        {"name": "mojito", "amount": 144},
+                        {"name": "vodka", "amount": 64},
+                        {"name": "pollofrito", "amount": 147}
+                    ]
+                },
+                {
+                    "id":"faction_businessb",
+                    "items":[
+                        {"name": "armor", "amount": 22},
+                        {"name": "billing", "amount": 1},
+                        {"name": "billing", "amount": 1},
+                        {"name": "billing", "amount": 1},
+                        {"name": "billing", "amount": 1},
+                        {"name": "radio", "amount": 1},
+                        {"name": "radio", "amount": 1},
+                        {"name": "radio", "amount": 1},
+                        {"name": "radio", "amount": 1},
+                        {"name": "radio", "amount": 1}
+                    ]
+                },
+                {
+                    "id":"faction_businessg",
+                    "items": [
+                        {"name": "arepa", "amount": 95},
+                        {"name": "pastelchocolate", "amount": 97},
+                        {"name": "billing", "amount": 1},
+                        {"name": "fanta", "amount": 76},
+                        {"name": "bolsacomida", "amount": 5},
+                        {"name": "pollobrasa", "amount": 300},
+                        {"name": "papasfritas", "amount": 300},
+                        {"name": "pollofrito", "amount": 288}
+                    ]
+                },
+                 {
+                    "id":"faction_businessj",
+                    "items": [
+                        {"name": "hamburguesa", "amount": 157},
+                        {"name": "papasfritas", "amount": 200},
+                        {"name": "salchipapa", "amount": 195},
+                        {"name": "carta_burgershot", "amount": 3},
+                        {"name": "cocacola", "amount": 187},
+                        {"name": "pepsi", "amount": 170},
+                        {"name": "helado", "amount": 190},
+                        {"name": "billing", "amount": 1},
+                        {"name": "bolsaliquidos", "amount": 55},
+                        {"name": "bolsacomida", "amount": 14},
+                        {"name": "cocacola", "amount": 30},
+                        {"name": "cocacola", "amount": 50},
+                        {"name": "hamburguesa", "amount": 50},
+                        {"name": "salchipapa", "amount": 30},
+                        {"name": "squidgame", "amount": 38},
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "carta_pizzathis", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "faction_mechanic1",
+                    "items": [
+                            {"name": "advancedlockpick", "amount": 3},
+                            {"name": "weapon_petrolcan", "amount": 1},
+                            {"name": "basketball_hoop", "amount": 1},
+                            {"name": "repairkit", "amount": 23},
+                            {"name": "cleaningkit", "amount": 32},
+                            {"name": "cuerda", "amount": 1},
+                            {"name": "paint_can", "amount": 1},
+                            {"name": "weapon_petrolcan", "amount": 1},
+                            {"name": "paint_clean", "amount": 1},
+                            {"name": "weapon_petrolcan", "amount": 1},
+                            {"name": "weapon_petrolcan", "amount": 1},
+                            {"name": "weapon_petrolcan", "amount": 1},
+                            {"name": "weapon_petrolcan", "amount": 1}
+                        ]
+                },
+                {
+                    "id": "faction_mechanic3",
+                    "items": [
+                        {"name": "repairkit", "amount": 7},
+                        {"name": "weapon_petrolcan", "amount": 1},
+                        {"name": "weapon_petrolcan", "amount": 1},
+                        {"name": "weapon_petrolcan", "amount": 1},
+                        {"name": "dona", "amount": 2},
+                        {"name": "helado", "amount": 1},
+                        {"name": "cocacola", "amount": 12},
+                        {"name": "pepsi", "amount": 18},
+                        {"name": "salchipapa", "amount": 19},
+                        {"name": "twerks_candy", "amount": 42},
+                        {"name": "papasfritas", "amount": 17},
+                        {"name": "lighter", "amount": 2},
+                        {"name": "beer", "amount": 17},
+                        {"name": "rolling_paper", "amount": 2},
+                        {"name": "weapon_poolcue", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "faction_mechanic4",
+                    "items": [
+                        {"name": "repairkit", "amount": 16},
+                        {"name": "cleaningkit", "amount": 12},
+                        {"name": "weapon_petrolcan", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "faction_mechanic5",
+                    "items": [
+                        {"name": "repairkit", "amount": 2},
+                        {"name": "papasfritas", "amount": 25},
+                        {"name": "cocacola", "amount": 20},
+                        {"name": "billing", "amount": 2},
+                        {"name": "cuerda", "amount": 1},
+                        {"name": "weapon_petrolcan", "amount": 1},
+                        {"name": "weapon_petrolcan", "amount": 1},
+                        {"name": "cleaningkit", "amount": 2},
+                        {"name": "racingtablet", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "faction_mechanic9",
+                    "items": [
+                        {"name": "helado", "amount": 8},
+                        {"name": "cocacola", "amount": 71},
+                        {"name": "cuerda", "amount": 2},
+                        {"name": "hamburguesa", "amount": 69},
+                        {"name": "repairkit", "amount": 8},
+                        {"name": "cleaningkit", "amount": 8}
+                    ]
+                },
+                {
+                    "id": "Housing_1089807209_macdonald street1 #8706",
+                    "items": [
+                        {"name": "id_card", "amount": 1},
+                        {"name": "id_card", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "Housing_ace jones drive1 #7038",
+                    "items": [
+                        {"name": "advancedlockpick", "amount": 11},
+                        null,
+                        null,
+                        null,
+                        {"name": "cups", "amount": 2}
+                    ]
+                },
+                {
+                    "id": "Housing_amarillo vista1 #8269",
+                    "items": [
+                        {"name": "rentalpapers", "amount": 1},
+                        {"name": "rentalpapers", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "Housing_baytree canyon road1 #6654",
+                    "items": [
+                        {"name": "repairkit", "amount": 21},
+                        {"name": "supervodka", "amount": 11}
+                    ]
+                },
+                {
+                    "id": "Housing_catfish view1 #7372",
+                    "items": [
+                        {"name": "weapon_smg", "amount": 1},
+                        {"name": "weapon_smg", "amount": 1},
+                        {"name": "weapon_smg", "amount": 1},
+                        {"name": "weapon_smg", "amount": 1},
+                        {"name": "weapon_smg", "amount": 1},
+                        {"name": "weapon_pistol", "amount": 1},
+                        {"name": "weapon_heavysniper", "amount": 1},
+                        {"name": "weapon_smg", "amount": 1},
+                        {"name": "weapon_smg", "amount": 1},
+                        {"name": "weapon_smg", "amount": 1},
+                        {"name": "weapon_pistol50", "amount": 1},
+                        {"name": "weapon_pistol50", "amount": 1},
+                        {"name": "bandage", "amount": 25},
+                        {"name": "oxy", "amount": 44},
+                        {"name": "painkillers", "amount": 19},
+                        {"name": "bolso", "amount": 1},
+                        {"name": "vannecklace", "amount": 1},
+                        {"name": "vanpanther", "amount": 1},
+                        {"name": "vandiamond", "amount": 2},
+                        {"name": "vanbottle", "amount": 1},
+                        {"name": "xtcbaggy", "amount": 16},
+                        {"name": "painkillers", "amount": 10},
+                        {"name": "armor", "amount": 2},
+                        {"name": "pistol_ammo", "amount": 8},
+                        {"name": "armor", "amount": 4},
+                        {"name": "cryptostick", "amount": 1},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "cryptostick", "amount": 3},
+                        {"name": "smg_ammo", "amount": 10},
+                        {"name": "weapon_knife", "amount": 1},
+                        {"name": "weapon_switchblade", "amount": 1},
+                        {"name": "weapon_assaultrifle_mk2", "amount": 1},
+                        {"name": "firstaid", "amount": 1},
+                        {"name": "firstaid", "amount": 1},
+                        {"name": "medscope_attachment", "amount": 1},
+                        {"name": "medscope_attachment", "amount": 1},
+                        {"name": "medscope_attachment", "amount": 1},
+                        {"name": "medscope_attachment", "amount": 1},
+                        {"name": "coffee", "amount": 15},
+                        {"name": "phone", "amount": 1},
+                        {"name": "skateboard", "amount": 1},
+                        {"name": "supervodka", "amount": 17},
+                        {"name": "bandage", "amount": 10},
+                        {"name": "phone", "amount": 1},
+                        {"name": "oxy", "amount": 10}
+                    ]
+                },
+                {
+                    "id": "Housing_great ocean highway1 #8209",
+                    "items": [
+                      {"name": "rentalpapers", "amount": 1},
+                      {"name": "xtcbaggy", "amount": 726},
+                      {"name": "cokebaggy", "amount": 200},
+                      {"name": "radio", "amount": 1}
+                    ]
+                },
+                {
+                    "id": "Housing_great ocean highway1 #8209",
+                    "items": [
+                      {"name": "rentalpapers", "amount": 2},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_heavypistol", "amount": 1},
+                      {"name": "weapon_vintagepistol", "amount": 1},
+                      {"name": "oxy", "amount": 1},
+                      {"name": "painkillers", "amount": 5},
+                      {"name": "weapon_snspistol", "amount": 4},
+                      {"name": "vannecklace", "amount": 2},
+                      {"name": "armor", "amount": 32},
+                      {"name": "radio", "amount": 15},
+                      {"name": "pistol_ammo", "amount": 274},
+                      {"name": "paint_clean", "amount": 1},
+                      {"name": "racingtablet", "amount": 3},
+                      {"name": "ifaks", "amount": 4},
+                      {"name": "binoculars", "amount": 3},
+                      {"name": "crack_baggy", "amount": 14},
+                      {"name": "empty_weed_bag", "amount": 713},
+                      {"name": "diamond", "amount": 133},
+                      {"name": "billing", "amount": 2},
+                      {"name": "weapon_dagger", "amount": 7},
+                      {"name": "tablet", "amount": 4},
+                      {"name": "trojan_usb", "amount": 6},
+                      {"name": "gatecrack", "amount": 1},
+                      {"name": "cryptostick", "amount": 23},
+                      {"name": "bolsoropa", "amount": 2},
+                      {"name": "weapon_battleaxe", "amount": 1},
+                      {"name": "weapon_machete", "amount": 1},
+                      {"name": "cuerda", "amount": 1},
+                      {"name": "paint_can", "amount": 3},
+                      {"name": "phone", "amount": 10},
+                      {"name": "beer", "amount": 5},
+                      {"name": "weapon_petrolcan", "amount": 2},
+                      {"name": "tequila", "amount": 3},
+                      {"name": "condon", "amount": 3},
+                      {"name": "driver_license", "amount": 1},
+                      {"name": "id_card", "amount": 1},
+                      {"name": "twerks_candy", "amount": 17},
+                      {"name": "xtcbaggy", "amount": 9},
+                      {"name": "vandiamond", "amount": 1},
+                      {"name": "supervodka", "amount": 47},
+                      {"name": "cocacola", "amount": 3},
+                      {"name": "xmas_gift", "amount": 6},
+                      {"name": "vanbottle", "amount": 2},
+                      {"name": "advancedlockpick", "amount": 6}
+                    ]
+                  },
+                  {
+                    "id": "Housing_jamestown street1 #3069",
+                    "items": [
+                      {"name": "meth", "amount": 65},
+                      {"name": "weapon_knife", "amount": 1},
+                      {"name": "weapon_knife", "amount": 1},
+                      {"name": "weapon_knife", "amount": 1},
+                      {"name": "weapon_knife", "amount": 1},
+                      {"name": "xtcbaggy", "amount": 28},
+                      {"name": "weapon_knife", "amount": 1},
+                      {"name": "weapon_knife", "amount": 1},
+                      {"name": "weapon_knife", "amount": 1},
+                      {"name": "weapon_battleaxe", "amount": 1},
+                      {"name": "weapon_bat", "amount": 1},
+                      {"name": "weapon_bat", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_snspistol", "amount": 1},
+                      {"name": "weapon_dagger", "amount": 1},
+                      {"name": "pistol_ammo", "amount": 240},
+                      {"name": "billing", "amount": 1},
+                      {"name": "weapon_petrolcan", "amount": 1},
+                      {"name": "flashlight_attachment", "amount": 1},
+                      {"name": "weapontint_5", "amount": 1},
+                      {"name": "trojan_usb", "amount": 11},
+                      {"name": "radio", "amount": 1},
+                      {"name": "radio", "amount": 1},
+                      {"name": "advancedlockpick", "amount": 3},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "driver_license", "amount": 1},
+                      {"name": "id_card", "amount": 1},
+                      {"name": "mastercard", "amount": 1},
+                      {"name": "crack_baggy", "amount": 119},
+                      {"name": "cokebaggy", "amount": 82},
+                      {"name": "empty_weed_bag", "amount": 591},
+                      {"name": "armor", "amount": 22},
+                      {"name": "weapon_knife", "amount": 1},
+                      {"name": "weapon_golfclub", "amount": 1},
+                      {"name": "weapon_switchblade", "amount": 1},
+                      {"name": "weapon_petrolcan", "amount": 1},
+                      {"name": "supervodka", "amount": 21},
+                      {"name": "weapon_knife", "amount": 1},
+                      {"name": "id_card", "amount": 1}
+                    ]
+                  },
+                  {
+                    "id": "Housing_jamestown street2 #7396",
+                    "items": [
+                      {"name": "driver_license", "amount": 1},
+                      {"name": "id_card", "amount": 1},
+                      {"name": "id_card", "amount": 1},
+                      {"name": "id_card", "amount": 1},
+                      {"name": "id_card", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "weapon_bzgas", "amount": 1},
+                      {"name": "weapon_bzgas", "amount": 1},
+                      {"name": "bolso", "amount": 1},
+                      {"name": "gasmask", "amount": 1},
+                      {"name": "tequila", "amount": 23},
+                      {"name": "paint_can", "amount": 10},
+                      {"name": "goldchain", "amount": 4},
+                      {"name": "diamond", "amount": 8},
+                      {"name": "cokebaggy", "amount": 5555},
+                      {"name": "weapon_petrolcan", "amount": 1},
+                      {"name": "weapon_petrolcan", "amount": 1},
+                      {"name": "cleaningkit", "amount": 1}
+                    ]
+                  },
+                  {
+                    "id": "Housing_lake vinewood est1 #4883",
+                    "items": [
+                      {"name": "racingtablet", "amount": 1},
+                      {"name": "tablet", "amount": 6},
+                      {"name": "security_card_01", "amount": 1},
+                      {"name": "meth", "amount": 18},
+                      {"name": "crack_baggy", "amount": 5},
+                      {"name": "sandwich", "amount": 7},
+                      {"name": "phone", "amount": 5},
+                      {"name": "gatecrack", "amount": 7},
+                      {"name": "weapon_bat", "amount": 1},
+                      {"name": "cokebaggy", "amount": 10},
+                      {"name": "weapon_snspistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "driver_license", "amount": 1},
+                      {"name": "mastercard", "amount": 1}
+                    ]
+                  },
+                  {
+                    "id": "Housing_macdonald street1 #8706",
+                    "items": [
+                      {"name": "cutter", "amount": 1},
+                      {"name": "metalscrap", "amount": 301},
+                      {"name": "copper", "amount": 334},
+                      {"name": "rubber", "amount": 31},
+                      {"name": "steel", "amount": 397},
+                      {"name": "weapon_bat", "amount": 1},
+                      {"name": "aluminum", "amount": 336},
+                      {"name": "plastic", "amount": 343},
+                      {"name": "glass", "amount": 343},
+                      {"name": "gasmask", "amount": 1},
+                      {"name": "helado", "amount": 5},
+                      {"name": "cleaningkit", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "weapon_knife", "amount": 1},
+                      {"name": "clip_attachment", "amount": 3},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "billing", "amount": 1},
+                      {"name": "bolso", "amount": 1},
+                      {"name": "rentalpapers", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "xtcbaggy", "amount": 31},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 3},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "supervodka", "amount": 6},
+                      {"name": "id_job", "amount": 1},
+                      {"name": "rentalpapers", "amount": 1},
+                      {"name": "gasmask", "amount": 1},
+                      {"name": "iron", "amount": 331},
+                      {"name": "meth", "amount": 6},
+                      {"name": "tosti", "amount": 1},
+                      {"name": "tosti", "amount": 1},
+                      {"name": "cokebaggy", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cokebaggy", "amount": 2},
+                      {"name": "cokebaggy", "amount": 1},
+                      {"name": "cokebaggy", "amount": 1},
+                      {"name": "crack_baggy", "amount": 1},
+                      {"name": "crack_baggy", "amount": 1},
+                      {"name": "crack_baggy", "amount": 1},
+                      {"name": "crack_baggy", "amount": 1},
+                      {"name": "crack_baggy", "amount": 1},
+                      {"name": "crack_baggy", "amount": 1},
+                      {"name": "crack_baggy", "amount": 1},
+                      {"name": "crack_baggy", "amount": 1},
+                      {"name": "crack_baggy", "amount": 1},
+                      {"name": "crack_baggy", "amount": 1},
+                      {"name": "crack_baggy", "amount": 1},
+                      {"name": "bag", "amount": 1},
+                      {"name": "trojan_usb", "amount": 1},
+                      {"name": "trojan_usb", "amount": 1},
+                      {"name": "weapon_dagger", "amount": 1}
+                    ]
+                  },
+                  {
+                    "id": "Housing_macdonald street2 #4237",
+                    "items": [
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "oxy", "amount": 100},
+                      {"name": "oxy", "amount": 100},
+                      {"name": "oxy", "amount": 80}
+                    ]
+                  },
+                  {
+                    "id": "Housing_paleto boulevard1 #6801",
+                    "items": [
+                      {"name": "rolling_paper", "amount": 1},
+                      {"name": "empty_weed_bag", "amount": 30},
+                      {"name": "meth", "amount": 6},
+                      {"name": "weapon_poolcue", "amount": 1},
+                      {"name": "xtcbaggy", "amount": 71},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 3},
+                      {"name": "cryptostick", "amount": 3},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 3},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 3},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 3},
+                      {"name": "supervodka", "amount": 13},
+                      {"name": "tequila", "amount": 1},
+                      {"name": "xmas_gift", "amount": 1},
+                      {"name": "xmas_gift", "amount": 1},
+                      {"name": "squidgame", "amount": 2},
+                      {"name": "eliminaunjugador", "amount": 1}
+                    ]
+                  },
+                  {
+                    "id": "Housing_procopio drive1 #4609",
+                    "items": [
+                      {"name": "pistol_ammo", "amount": 21}
+                    ]
+                  },
+                  {
+                    "id": "Housing_procopio drive2 #2974",
+                    "items": [
+                      {"name": "radio", "amount": 1}
+                    ]
+                  },
+                  {
+                    "id": "Housing_procopio drive4 #7242",
+                    "items": [
+                      {"name": "empty_weed_bag", "amount": 500},
+                      {"name": "tosti", "amount": 58},
+                      {"name": "trojan_usb", "amount": 1},
+                      {"name": "advancedlockpick", "amount": 3},
+                      {"name": "weed_nutrition", "amount": 5}
+                    ]
+                  },
+                  {
+                    "id": "Housing_procopio drive6 #5002",
+                    "items": [
+                      {"name": "condon", "amount": 1},
+                      {"name": "cleaningkit", "amount": 2},
+                      {"name": "repairkit", "amount": 10},
+                      {"name": "weapon_knife", "amount": 1},
+                      {"name": "phone", "amount": 1},
+                      {"name": "salchipapa", "amount": 15},
+                      {"name": "helado", "amount": 15},
+                      {"name": "racingtablet", "amount": 1},
+                      {"name": "supervodka", "amount": 24},
+                      {"name": "elijeaunjugadorfinal", "amount": 1},
+                      {"name": "squidgame", "amount": 1}
+                    ]
+                  },
+                  {
+                    "id": "Housing_procopio drive7 #4251",
+                    "items": [
+                      {"name": "pistol_ammo", "amount": 12}
+                    ]
+                  },
+                  {
+                    "id": "Housing_west eclipse boulevard1 #3313",
+                    "items": [
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_snspistol", "amount": 1},
+                      {"name": "pistol_ammo", "amount": 10},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_pistol", "amount": 1},
+                      {"name": "weapon_poolcue", "amount": 1},
+                      {"name": "weapon_dagger", "amount": 1},
+                      {"name": "meth", "amount": 2630},
+                      {"name": "cokebaggy", "amount": 179},
+                      {"name": "head_bag", "amount": 1},
+                      {"name": "weapon_heavypistol", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "rentalpapers", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 3},
+                      {"name": "cryptostick", "amount": 3},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "phone", "amount": 1},
+                      {"name": "phone", "amount": 1},
+                      {"name": "phone", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "trojan_usb", "amount": 1},
+                      {"name": "weapon_bzgas", "amount": 1},
+                      {"name": "weapon_bzgas", "amount": 1},
+                      {"name": "weapon_bzgas", "amount": 1},
+                      {"name": "gasmask", "amount": 2},
+                      {"name": "cutter", "amount": 1},
+                      {"name": "advancedlockpick", "amount": 6},
+                      {"name": "weapon_wrench", "amount": 1},
+                      {"name": "trojan_usb", "amount": 19},
+                      {"name": "crack_baggy", "amount": 20},
+                      {"name": "empty_weed_bag", "amount": 233},
+                      {"name": "bandage", "amount": 10},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 2},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1},
+                      {"name": "cryptostick", "amount": 1}
+                    ]
+                  }
+
 ]
   
