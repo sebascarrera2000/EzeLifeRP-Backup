@@ -1,0 +1,59 @@
+body{
+    background-image: url("./img/Diseño-sin-título-_5_.webp");
+  }
+
+  .img{
+    justify-content: center;
+    align-items:center;
+  }
+
+  a:hover, a:visited, a:link, a:active
+  {
+    text-decoration: none;
+  
+    
+  }
+  
+  #random{
+        margin-top: 30px;
+        color:white; 
+        font-size: 20px;
+        font-family: 'Montserrat Alternates'
+  }
+  
+  
+  .field {
+    display:flex;
+    position:realtive;
+    margin:5em auto;
+    width:50%;
+    flex-direction:row;
+    box-shadow:
+     1px 1px 0 rgb(0, 0, 0),
+     2px 2px 0 rgb(0, 0, 0),
+     3px 3px 0  rgb(0, 0, 0),
+     4px 4px 0 rgb(0, 0, 0),
+     5px 5px 0 rgb(0, 0, 0),
+     6px 6px 0 rgb(0, 0, 0),
+     7px 7px 0 rgb(0, 0, 0)
+    ;
+  }
+  
+  .field>input[type=text],
+  .field>button {
+    display:block;
+    font:1.2em 'Montserrat Alternates';
+  }
+  
+  .field>input[type=text] {
+    flex:1;
+    padding:0.6em;
+    border:0.2em solid rgb(226, 255, 3);
+  }
+  
+  .field>button {
+    padding:0.6em 0.8em;
+    background-color:rgb(244, 244, 244);
+    color:while;
+    border:none;
+  }

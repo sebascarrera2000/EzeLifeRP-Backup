@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <title>Backup Ezelife Database</title>
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
+    <style>
+        /* Agrega estilos personalizados para el fondo blanco en las tablas */
+        table {
+            background-color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2 class="titulo text-center mt-5 pt-5">
+            <img src="./img/EZELIFE LOGO LETRAS.png" alt="" width="250px">
+        </h2>
+        <h2 class="titulo text-center mt-5 pt-5"> <a href="./index.html"> <button type="button" class="btn btn-warning">Carros</button></a></h2>
+        <div class="field" id="searchform">
+            <input type="text" value="" id="searchterm" placeholder="Número de Stash" />
+            <button type="button" id="search" onclick="searchStash()"><span>📦</span></button>
+        </div>
+
+        <div class="list-group" id="itemList"></div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+    <script>
+        function searchStash() {
+            var stashNumber = document.getElementById('searchterm').value;
+
+            // Realiza una solicitud AJAX para cargar el JSON de housing
+            fetch('./house.json')
+                .then(response => response.json())
+                .then(housingData => {
+                    var stash = housingData.find(item => item.id === stashNumber);
+
+                    var itemList = document.getElementById('itemList');
+                    itemList.innerHTML = ''; // Limpiar la lista de items
+
+                    if (stash) {
+                        stash.items.forEach(function (item) {
+                            var listItem = document.createElement('div');
+                            listItem.className = 'list-group-item';
+                            listItem.textContent = `${item.name}: ${item.amount}`;
+                            itemList.appendChild(listItem);
+                        });
+                    } else {
+                        var listItem = document.createElement('div');
+                        listItem.className = 'list-group-item';
+                        listItem.textContent = 'No se encontró nada en el stash';
+                        itemList.appendChild(listItem);
+                    }
+                })
+                .catch(error => console.error('Error al cargar el JSON de housing:', error));
+        }
+    </script>
+</body>
+</html>

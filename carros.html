@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <title>Backup Ezelife Database</title>
+    <link rel="stylesheet" type="text/css" href="./style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
+    <style>
+        /* Agrega estilos personalizados para el fondo blanco en las tablas */
+        table {
+            background-color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2 class="titulo text-center mt-5 pt-5">
+            <img src="./img/EZELIFE LOGO LETRAS.png" alt="" width="250px">
+        </h2>
+        <h2 class="titulo text-center mt-5 pt-5"> <a href="./casas.html"> <button type="button" class="btn btn-warning">Inventario Stash  </button></a></h2>
+        <div class="field" id="searchform">
+            
+            <input type="text" value="" id="searchterm" placeholder="Citizen ID" />
+            <button type="button" id="search"><span>🙍‍♂️</span></button>
+        </div>
+
+        <div class="list-group" id="vehicleList"></div>
+        <div id="vehicleInfo" class="mt-3"></div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var searchButton = document.getElementById('search');
+            var searchInput = document.getElementById('searchterm');
+            var vehicleList = document.getElementById('vehicleList');
+            var vehicleInfo = document.getElementById('vehicleInfo');
+
+            searchButton.addEventListener('click', function () {
+                var citizenId = searchInput.value;
+                loadCitizenData(citizenId);
+            });
+
+            function loadCitizenData(citizenId) {
+                // Realiza una solicitud AJAX para cargar el JSON de ciudadanos
+                fetch('./dataId.json')
+                    .then(response => response.json())
+                    .then(citizenData => {
+                        var citizenInfo = citizenData.data.find(function (item) {
+                            return item.citizenid === citizenId;
+                        });
+
+                        vehicleList.innerHTML = ''; // Limpiar la lista de vehículos
+                        vehicleInfo.innerHTML = ''; // Limpiar la información del vehículo
+
+                        if (citizenInfo) {
+                            loadVehicleData(citizenInfo);
+                        } else {
+                            var listItem = document.createElement('li');
+                            listItem.className = 'list-group-item';
+                            listItem.textContent = 'Ciudadano no encontrado';
+                            vehicleList.appendChild(listItem);
+                        }
+                    })
+                    .catch(error => console.error('Error al cargar el JSON de ciudadanos:', error));
+            }
+
+            function loadVehicleData(citizenInfo) {
+                // Realiza una solicitud AJAX para cargar el JSON de vehículos e inventarios
+                fetch('./plate.json')
+                    .then(response => response.json())
+                    .then(vehicleInventory => {
+                        citizenInfo.plates.forEach(function (plate) {
+                            var listItem = document.createElement('li');
+                            listItem.className = 'list-group-item d-flex justify-content-between align-items-center';
+                            listItem.textContent = plate;
+
+                            var arrowButton = document.createElement('button');
+                            arrowButton.className = 'btn btn-primary btn-sm';
+                            arrowButton.innerHTML = '<span>↓</span>';
+                            arrowButton.addEventListener('click', function () {
+                                showVehicleInfo(plate, vehicleInventory[plate]);
+                            });
+
+                            listItem.appendChild(arrowButton);
+                            vehicleList.appendChild(listItem);
+                        });
+                    })
+                    .catch(error => console.error('Error al cargar el JSON de vehículos e inventarios:', error));
+            }
+
+            function showVehicleInfo(plate, inventory) {
+                var table = '<table class="table mt-3">';
+                table += '<thead><tr><th>Nombre</th><th>Cantidad</th></thead><tbody>';
+
+                if (inventory) {
+                    for (var item in inventory) {
+                        table += '<tr><td>' + item + '</td><td>' + inventory[item] + '</td></tr>';
+                    }
+                } else {
+                    // Mostrar mensaje cuando no se encuentra nada del vehículo
+                    table += '<tr><td colspan="2">No se encuentra nada del vehículo</td></tr>';
+                }
+
+                table += '</tbody></table>';
+                vehicleInfo.innerHTML = table;
+            }
+        });
+
+        if (localStorage.getItem('authenticated') !== 'true') {
+            window.location.href = './index.html'; // Redirige al formulario de inicio de sesión
+        }
+
+        function logout() {
+            localStorage.removeItem('authenticated');
+            window.location.href = './index.html'; // Redirige al formulario de inicio de sesión
+        }
+    </script>
+</body>
+</html>

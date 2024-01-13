@@ -1,0 +1,675 @@
+{
+    "ABZSMXAW": {
+      "xmas_gift": 1,
+      "xmas_decor": 1,
+      "supervodka": 2,
+      "weapon_petrolcan": 1,
+      "bandage": 1
+    },
+    "ADMOUMCV": {
+      "wheel_ticket": 7,
+      "weapon_petrolcan": 1,
+      "supervodka": 7,
+      "pistol_ammo": 1,
+      "weapon_poolcue": 1,
+      "cuerda": 1,
+      "bandage": 1
+    },
+    "ANSRYRPX": {
+      "tosti": 3,
+      "weapon_petrolcan": 1
+    },
+    "AOXNSTNR": {
+      "mastercard": 1,
+      "bolsoropa": 1,
+      "beer": 1,
+      "screwdriverset": 1
+    },
+    "APYAGZMA": {
+      "Rental Papers": 2
+    },
+    "BANLHLKD": {
+      "empty_weed_bag": 196
+    },
+    "BCGGDGJI": {
+      "pistol_ammo": 9
+    },
+    "BEXGRIUU": {
+      "weapon_petrolcan": 1
+    },
+    "BJRZRXAF": {
+      "weed_nutrition": 5,
+      "weapon_petrolcan": 3
+    },
+    "BNQUPVSF": {
+      "empty_weed_bag": 112,
+      "weed_skunk": 45,
+      "xtc_baggy": 55,
+      "coke_baggy": 26,
+      "crack_baggy": 5,
+      "weapon_knife": 1,
+      "weapon_knuckle": 1,
+      "weapon_hammer": 1,
+      "advancedlockpick": 10,
+      "pistol_ammo": 14,
+      "flashlight_attachment": 1,
+      "gasmask": 1,
+      "weapon_bzgas": 1,
+      "diamond": 16,
+      "cryptostick": 12,
+      "trojan_usb": 8
+    },
+    "BRGWVJIY": {
+      "empty_weed_bag": 700,
+      "phone": 3
+    },
+    "BTZBEZTA": {
+      "beer": 78,
+      "empty_weed_bag": 28,
+      "electronickit": 2,
+      "mastercard": 1,
+      "condon": 1,
+      "champagne": 6
+    },
+    "BVHUZEMQ": {
+      "weapon_petrolcan": 1
+    },
+    "CMKCVSES": {
+      "Rental Papers": 8,
+      "carta_casino": 1
+    },
+    "DUVJJMOD": {
+      "beer": 13,
+      "weapon_snowball": 11,
+      "supervodka": 2,
+      "champagne": 3,
+      "xmas_gift": 1
+    },
+    "DVHKKEZW": {
+      "weapon_petrolcan": 1
+    },
+    "EDWGCXON": {
+      "pistol_ammo": 5,
+      "diamond": 3,
+      "squidgame": 2,
+      "lighter": 1
+    },
+    "EXSFXLIZ": {
+      "weapon_petrolcan": 1
+    },
+    "FANFZJWU": {
+      "tequila": 14
+    },
+    "FFIPQTDJ": {
+      "weapon_petrolcan": 1,
+      "coffee": 5,
+      "firstaid": 5,
+      "ensalada": 5,
+      "cleaningkit": 1
+    },
+    "FLTNQFJU": {
+      "Facturadora": 1,
+      "advancedlockpick": 1,
+      "carta_tequilala": 1
+    },
+    "FLWIWTCF": {
+      "weapon_petrolcan": 1
+    },
+    "FMMHJNYN": {
+      "weapon_petrolcan": 1
+    },
+
+  "FNWAKVUI": {
+    "weapon_petrolcan": 1,
+    "carta_vanilla": 1
+  },
+  "FPLLGEEU": {
+    "weapon_knife": 1,
+    "fitbit": 1,
+    "racingtablet": 1,
+    "advancedlockpick": 8,
+    "cryptostick": 4,
+    "cokebaggy": 6,
+    "condon": 2,
+    "repairkit": 1,
+    "bandage": 5,
+    "bolsoropa": 1
+  },
+  "FYCSYANI": {
+    "copper": 46,
+    "metalscrap": 39,
+    "rubber": 2,
+    "aluminum": 57,
+    "diamond": 6,
+    "steel": 31,
+    "glass": 18,
+    "iron": 49,
+    "plastic": 46
+  },
+  "FZMGWKEW": {
+    "champagne": 1,
+    "corona": 20,
+    "helado": 15,
+    "phone": 1
+  },
+  "GAMSQSJT": {
+    "aluminum": 21,
+    "metalscrap": 25,
+    "iron": 24,
+    "plastic": 24,
+    "steel": 28,
+    "glass": 13,
+    "copper": 10,
+    "id_card": 1
+  },
+  "GBYOQIQJ": {
+    "weapon_snowball": 16
+  },
+  "GCGQUZOY": {
+    "donas": 7
+  },
+  "GDWDSZLN": {
+    "tequila": 7,
+    "beer": 3,
+    "cocacola": 10
+  },
+  "GGTYYEFC": {
+    "weapon_petrolcan": 1,
+    "tequila": 6,
+    "squidgame": 1,
+    "supervodka": 9
+  },
+  "GYMSZSLJ": {
+    "weapon_petrolcan": 1
+  },
+  "HEARBFUP": {
+    "weapon_petrolcan": 2
+  },
+  "HGKSNWBN": {
+    "parachute": 1
+  },
+  "HIYTJATK": {
+    "weapon_petrolcan": 1
+  },
+  "HMPTKUAQ": {
+    "rentalpapers": {
+      "RT1711": 1,
+      "RT6220": 1,
+      "RT6711": 1,
+      "RT9285": 1,
+      "RT1101": 1,
+      "RT8669": 1
+    }
+  },
+  "HRVIQOOD": {
+    "weed_skunk": 5,
+    "empty_weed_bag": 1,
+    "kurkakola": 3,
+    "hamburguesa": 2
+  },
+  "HUSCBHJF": {
+    "weapon_bzgas": 2,
+    "gasmask": 1,
+    "cryptostick": 6
+  },
+  "FNWAKVUI": {
+    "weapon_petrolcan": 1,
+    "carta_vanilla": 1
+  },
+  "FPLLGEEU": {
+    "weapon_knife": 1,
+    "fitbit": 1,
+    "racingtablet": 1,
+    "advancedlockpick": 8,
+    "cryptostick": 4,
+    "cokebaggy": 6,
+    "condon": 2,
+    "repairkit": 1,
+    "bandage": 5,
+    "bolsoropa": 1
+  },
+  "FYCSYANI": {
+    "copper": 46,
+    "metalscrap": 39,
+    "rubber": 2,
+    "aluminum": 57,
+    "diamond": 6,
+    "steel": 31,
+    "glass": 18,
+    "iron": 49,
+    "plastic": 46
+  },
+  "FZMGWKEW": {
+    "champagne": 1,
+    "corona": 20,
+    "helado": 15,
+    "phone": 1
+  },
+  "GAMSQSJT": {
+    "aluminum": 21,
+    "metalscrap": 25,
+    "iron": 24,
+    "plastic": 24,
+    "steel": 28,
+    "glass": 13,
+    "copper": 10,
+    "id_card": 1
+  },
+  "GBYOQIQJ": {
+    "weapon_snowball": 16
+  },
+  "GCGQUZOY": {
+    "donas": 7
+  },
+  "GDWDSZLN": {
+    "tequila": 7,
+    "beer": 3,
+    "cocacola": 10
+  },
+  "GGTYYEFC": {
+    "weapon_petrolcan": 1,
+    "tequila": 6,
+    "squidgame": 1,
+    "supervodka": 9
+  },
+  "GYMSZSLJ": {
+    "weapon_petrolcan": 1
+  },
+  "HEARBFUP": {
+    "weapon_petrolcan": 2
+  },
+  "HGKSNWBN": {
+    "parachute": 1
+  },
+  "HIYTJATK": {
+    "weapon_petrolcan": 1
+  },
+  "HRVIQOOD": {
+    "weed_skunk": 5,
+    "empty_weed_bag": 1,
+    "kurkakola": 3,
+    "hamburguesa": 2
+  },
+  "HUSCBHJF": {
+    "weapon_bzgas": 2,
+    "gasmask": 1,
+    "cryptostick": 6
+  },
+ 
+    "IDOWNALC": {
+      "weapon_petrolcan": 4
+
+    },
+    "IENDQPCH": {
+      "glass": 15,
+      "aluminum": 3,
+      "plastic": 5,
+      "iron": 22,
+      "copper": 7
+    },
+    "ISRNJTNS": {
+      "tosti": 3,
+      "rentalpapers": 1
+    },
+    "IXECPNCG": {
+      "weapon_petrolcan": 1
+    },
+    "JIJVROYU": {
+      "repairkit": 2
+    },
+    "JLDEQPOZ": {
+      "trojan_usb": 1
+    },
+    "JMMMYWSJ": {
+      "meth": 6,
+      "cokebaggy": 5,
+      "tosti": 2,
+      "crack_baggy": 5
+    },
+    "JQYFPREG": {
+      "weapon_petrolcan": 2,
+      "cryptostick": 1,
+      "cryptostick": 1,
+      "bandage": 2,
+      "cryptostick": 2,
+      "cryptostick": 2,
+      "bolsoropa": 1,
+      "beer": 7,
+      "cryptostick": 2,
+      "cryptostick": 2,
+      "supervodka": 4,
+      "cryptostick": 3,
+      "radio": 1,
+      "radio": 1
+    },
+    "KKBALOKG": {
+      "driver_license": 1,
+      "id_job": 1,
+      "visa": 1
+    },
+      "KVQJNJHB": {
+        "wheel_ticket": 1
+      },
+      "LLHGHYDG": {
+        "empty_weed_bag": 48
+      },
+      "LLIGEKSV": {
+        "weapon_petrolcan": 1
+      },
+      "LLSZKIMA": {
+        "weapon_bat": 1
+      },
+      "LTLMWHVP": {
+        "cuerda": 1,
+        "weapon_petrolcan": 1
+      },
+      "LVLBWRND": {
+        "paint_can": 5,
+        "granizadocafe": 3,
+        "advancedlockpick": 1
+      },
+      "LZOBLAQD": {
+        "sandwich": 1,
+        "crack_baggy": 3,
+        "weapon_heavypistol": 1,
+        "fitbit": 1,
+        "phone": 1
+      },
+      "MDLWSBCK": {
+        "cocacola": 78,
+        "hamburguesa": 14
+      },
+      "MPUICUIC": {
+        "weapon_petrolcan": 1,
+        "weapon_petrolcan": 1,
+        "weapon_petrolcan": 1,
+        "lighter": 1,
+        "rolling_paper": 4,
+        "beer": 1
+      },
+        "MURCTPEA": {
+          "cleaningkit": 20
+        },
+        "NTKDYHVA": {
+          "weapon_petrolcan": 1
+        },
+        "NYKAKETE": {
+          "id_job": 1
+        },
+        "OERCHGGY": {
+          "weapon_petrolcan": 1
+        },
+        "OTUBNFNI": {
+          "weapon_snowball": 1
+        },
+        "PDTNFVEV": {
+          "xmas_decor": 1
+        },
+        "PPHDNGCY": {
+          "weapon_knife": 1
+        },
+        "PUMXETGX": {
+          "cryptostick": 1,
+          "cryptostick": 1,
+          "cryptostick": 1,
+          "cryptostick": 1,
+          "empty_weed_bag": 2,
+          "metalscrap": 41,
+          "copper": 59,
+          "iron": 48,
+          "aluminum": 23,
+          "steel": 47,
+          "plastic": 53,
+          "glass": 60,
+          "rubber": 2
+        },
+        "PUOLGHKZ": {
+          "squidgame": 1
+        },
+        "PZRPTCSZ": {
+          "squidgame": 3,
+          "ventaja": 1,
+          "painkillers": 9,
+          "id_card": 1,
+          "lighter": 1,
+          "skateboard": 1,
+          "cups": 1
+        },
+        "QBXKWCAF": {
+          "rentalpapers": 1
+        },
+        
+          "QJTCVVXW": {
+            "phone": 1
+          },
+          "QLARDUHF": {
+            "diamond": 1250
+          },
+          "QNYPDDTA": {
+            "binoculars": 1
+          },
+          "RBELADIM": {
+            "rentalpapers": 1
+          },
+          "RDMOSVYH": {
+            "empty_weed_bag": 500
+          },
+          "RHTVYUSD": {
+            "cleaningkit": 1,
+            "bandage": 3,
+            "painkillers": 3,
+            "firstaid": 3,
+            "ifaks": 3
+          },
+          "RIOUVGWY": {
+            "twerks_candy": 5,
+            "kurkakola": 1,
+            "twerks_candy": 1,
+            "twerks_candy": 1,
+            "cola": 1,
+            "twerks_candy": 1
+          },
+          "RODPALJN": {
+            "weapon_petrolcan": 1
+          },
+          "SAASSZFM": {
+            "weapon_petrolcan": 1,
+            "rentalpapers": 1,
+            "bolsaliquidos": 2,
+            "rentalpapers": 1
+          },
+          "SEJFQQKN": {
+            "bolso": 1,
+            "paint_can": 3,
+            "tequila": 14,
+            "mojito": 1,
+            "vodka": 15,
+            "aguardiente": 3,
+            "asado": 9,
+            "sushi": 1,
+            "helado": 5,
+            "salchipapa": 1
+          },
+          "SJVPEIWE": {
+            "weapon_petrolcan": 1
+          },
+          "SNPFIMJY": {
+            "firstaid": 5
+          },
+          "SPQYEHMF": {
+            "aguardiente": 1,
+            "trojan_usb": 1,
+            "champagne": 4,
+            "bandage": 3,
+            "cocacola": 3
+          },
+          "STNSIXEQ": {
+            "empty_weed_bag": 1
+          },
+
+            "SZEGOALE": {
+              "supervodka": 29,
+              "empty_weed_bag": 182,
+              "weed_skunk": 20
+            },
+            "TAHAVRNX": {
+              "repairkit": 1,
+              "weapon_petrolcan": 1
+            },
+            "TATONFQB": {
+              "weapon_petrolcan": 1,
+              "weapon_petrolcan": 1,
+              "whiskey": 5,
+              "aguardiente": 5,
+              "fernetcola": 5,
+              "billing": 1,
+              "repairkit": 2,
+              "cleaningkit": 3
+            },              
+            "TIQJJNWQ": {
+              "weapon_petrolcan": 1,
+              "weapon_petrolcan": 1,
+              "weapon_petrolcan": 1,
+              "weapon_petrolcan": 1,
+              "weapon_petrolcan": 1,
+              "weapon_petrolcan": 1
+            },
+            "TNURVIDA": {
+              "weapon_petrolcan": 1,
+              "weapon_petrolcan": 1
+            },
+            "TOGVWENQ": {
+              "rentalpapers": 1,
+              "rentalpapers": 1,
+              "rentalpapers": 1,
+              "rentalpapers": 1,
+              "weapon_snowball": 6,
+              "weapon_vintagepistol": 1,
+              "pistol_ammo": 3
+            },
+            "TTAQIEZZ": {
+              "repairkit": 4
+            },
+            "TUNSHLVO": {
+              "condon": 1
+            },
+            "TZZBZQFP": {
+              "bolsacomida": 1,
+              "rentalpapers": 1,
+              "rentalpapers": 1,
+              "rentalpapers": 1,
+              "bolsaliquidos": 1
+            },
+            "UEGIZEZJ": {
+              "empty_weed_bag": 75
+            },
+            "UTBNHSOQ": {
+              "weapon_petrolcan": 1
+            },
+            "UTFLUZQT": {
+              "iron": 64,
+              "steel": 55,
+              "copper": 38,
+              "metalscrap": 32,
+              "glass": 45,
+              "rubber": 3,
+              "plastic": 21,
+              "aluminum": 30,
+              "advancedlockpick": 2,
+              "trojan_usb": null
+            },
+            "VBYYYMJM": {
+              "squidgame": 1,
+              "billing": 1,
+              "cuerda": 1,
+              "xtcbaggy": 9,
+              "supervodka": 4,
+              "cryptostick": 2,
+              "cryptostick": 1,
+              "tequila": 1
+            },
+              "VQTGSMUI": {
+                "aluminum": 14,
+                "copper": 18,
+                "plastic": 33,
+                "iron": 15,
+                "bolsacomida": 4,
+                "metalscrap": 14,
+                "glass": 2,
+                "rubber": 3,
+                "weapon_petrolcan": 1,
+                "jennessee": 1,
+                "rentalpapers": 1,
+                "steel": 17,
+                "aguardiente": 3,
+                "fernetcola": 1,
+                "tequila": 1,
+                "xmas_gift": 1,
+                "xmas_tree": 1,
+                "xmas_star": 1,
+                "xmas_decor": 1,
+                "supervodka": 1
+              },
+              "VSVCGPXU": { "repairkit": 2 },
+              "VWYCGEYX": { "repairkit": 2 },
+              "WVWYYEAJ": { "rentalpapers": 1 },
+              "XEVXYMBM": {
+                "weapon_knife": 1,
+                "weapon_snowball": 4,
+                "repairkit": 2
+              },
+              "XJYIRUPS": { "meth": 97 },
+              "XLDBVRZI": { "rentalpapers": [1, 1] },
+              "XNQETSTJ": {
+                "weapon_pistol50": 1,
+                "driver_license": 1
+              },
+              "XOHDHUDY": {
+                "weapon_petrolcan": 1,
+                "weapon_petrolcan": 1
+              },
+              "XUWRUAPP": { "repairkit": 1 },
+                "XZZGOWRX": {"Gasolina": 1},
+                "YLIGOTZJ": {"Cuchillo (Grado 1)": 1},
+                "YMVYEVAK": {"Sandwich": 3},
+                "YQZKYIWR": {"Gasolina": 2},
+                "YSGXIIHH": {
+                  "Teléfono (Nuevo)": 3,
+                  "Bolsita Vacia": 2,
+                  "Licencia de conducir": 1,
+                  "Identificación": 1
+                },
+                "YWCXMHTP": {"Cuerda Remolque": 1},
+                "ZKRWDBIU": {"Rental Papers": 2},
+                "ZOIKOOSX": {
+                  "Champagne": 180,
+                  "Helado": 11,
+                  "Identificación": 1,
+                  "Tarjeta Master": 1,
+                  "Licencia de conducir": 1,
+                  "Super Vodka": 14,
+                  "Radio": 1
+                },
+                "ZWAUMLMF": {
+                  "Machete (Grado 1)": 1,
+                  "Kit de limpieza": 1,
+                  "Super Vodka": 3
+                }
+              
+              
+            
+
+          }
+          
+        
+        
+      
+      
+
+    
+  
+
+  
+  
+
+
