@@ -20,8 +20,9 @@
         <h2 class="titulo text-center mt-5 pt-5">
             <img src="./img/EZELIFE LOGO LETRAS.png" alt="" width="250px">
         </h2>
-        <h2 class="titulo text-center mt-5 pt-5"> <a href="./casas.html"> <button type="button" class="btn btn-warning">Inventario Stash  </button></a></h2>
+        <h2 class="titulo text-center mt-5 pt-5"> <a href="./casas.html"> <button type="button" class="btn btn-warning">Inventario Casas - Gratis  </button></a> <a href="./casasapagasbussines.html"> <button type="button" class="btn btn-warning">Casas Donacion</button></a></h2>
         <div class="field" id="searchform">
+
             
             <input type="text" value="" id="searchterm" placeholder="Citizen ID" />
             <button type="button" id="search"><span>🙍‍♂️</span></button>
@@ -112,15 +113,7 @@
                 vehicleInfo.innerHTML = table;
             }
         });
-
-        if (localStorage.getItem('authenticated') !== 'true') {
-            window.location.href = './index.html'; // Redirige al formulario de inicio de sesión
-        }
-
-        function logout() {
-            localStorage.removeItem('authenticated');
-            window.location.href = './index.html'; // Redirige al formulario de inicio de sesión
-        }
+        
     </script>
 </body>
 </html>
